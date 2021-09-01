@@ -1,6 +1,11 @@
-# Raspberrypi_vision<br/>
+# cloneCoding
 
--Raspberrypi<br/>
--Computer vision<br/>
--Deep learning<br/>
--real time
+### category
+- Computer Vision, Raspberrypi
+
+### 주제
+- 라즈베리파이를 이용한 실시간 Detection 구현
+
+### 기술 스택
+- Raspberrypi
+- Tensorflow
