@@ -67,9 +67,7 @@ def post_process(frame, outs, conf_threshold, nms_threshold):
     frame_height = frame.shape[0]
     frame_width = frame.shape[1]
 
-    # Scan through all the bounding boxes output from the network and keep only
-    # the ones with high confidence scores. Assign the box's class label as the
-    # class with the highest score.
+    
     confidences = []
     boxes = []
     final_boxes = []
